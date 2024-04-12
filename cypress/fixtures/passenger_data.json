@@ -1,16 +1,16 @@
 {
-  "TRAIN_NO": "11072",
+  "TRAIN_NO": "11062",
   "TRAIN_COACH": "2A",
-  "TRAVEL_DATE": "12/05/2024",
-  "SOURCE_STATION": "BSB",
+  "TRAVEL_DATE": "05/05/2024",
+  "SOURCE_STATION": "SKI",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "LTT",
   "TATKAL": false,
-  "UPI_ID": "",
+  "UPI_ID": "9999104775@ybl",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Sudhanshu Singh",
+      "AGE": 19,
       "GENDER": "Male",
       "SEAT": "Side Lower",
       "FOOD": "No Food"
